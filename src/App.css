@@ -1,0 +1,35 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: black;
+}
+.logo img{
+  border-radius: 85px;
+}
+.food-card{
+padding: 8px;
+  display: flex;
+  
+}
+.food-info{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: end;
+}
+.food-info h3{
+  margin-top: 8px;
+  font-size: 26px;
+  font-weight: 500;
+
+}
+.food-info p{
+  margin-top: 4px;
+  font-size: 14px;
+}
+.food-image{
+  opacity: o.2;
+}
