@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shahi-Foods/static/css/main.a0d509ea.css",
+    "main.js": "/Shahi-Foods/static/js/main.95e59873.js",
+    "index.html": "/Shahi-Foods/index.html",
+    "main.a0d509ea.css.map": "/Shahi-Foods/static/css/main.a0d509ea.css.map",
+    "main.95e59873.js.map": "/Shahi-Foods/static/js/main.95e59873.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0d509ea.css",
+    "static/js/main.95e59873.js"
+  ]
+}
